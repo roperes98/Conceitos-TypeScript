@@ -1,0 +1,15 @@
+{
+  "name": "Conceitos-TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/roperes98/Conceitos-TypeScript.git",
+  "author": "Rodrigo Peres <roperes98@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
